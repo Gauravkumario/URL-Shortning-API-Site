@@ -1,4 +1,4 @@
-# Frontend Mentor - Shortly URL shortening API Challenge
+# - Shortly URL shortening API Project
 Coded by gaurav and shubdeep
 
 #### The Challenge: 
